@@ -1,7 +1,5 @@
-version: 2026.232.0520
 plugin-unit:
     candy:
-        version: 2026.240.1900
         description: |-
             The `unit` MULTI-ROLE state-provision verb for a systemd unit FILE that has no
             cross-init analogue: a .socket, .target, .slice, or a drop-in fragment. CHECK:
